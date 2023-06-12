@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: d1fcb9535dc1bef438225785408ab8bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7610229975155764849
+    second: Fox_Fox_Attack_Claws_90Degree0
+  - first:
+      213: 9018304372604873688
+    second: Fox_Fox_Attack_Claws_90Degree1
+  - first:
+      213: 7808060749973787724
+    second: Fox_Fox_Attack_Claws_90Degree2
+  - first:
+      213: -4344808583009086779
+    second: Fox_Fox_Attack_Claws_90Degree3
+  - first:
+      213: 7410620345454902987
+    second: Fox_Fox_Attack_Claws_90Degree4
+  - first:
+      213: -4731348207086614090
+    second: Fox_Fox_Attack_Claws_90Degree5
+  - first:
+      213: -3389846629731486378
+    second: Fox_Fox_Attack_Claws_90Degree6
+  - first:
+      213: -8611400081584506695
+    second: Fox_Fox_Attack_Claws_90Degree7
+  - first:
+      213: 8515671103349191077
+    second: Fox_Fox_Attack_Claws_90Degree8
+  - first:
+      213: 4922372898771569352
+    second: Fox_Fox_Attack_Claws_90Degree9
+  - first:
+      213: -3977742429301340405
+    second: Fox_Fox_Attack_Claws_90Degree10
+  - first:
+      213: -3768405999613738893
+    second: Fox_Fox_Attack_Claws_90Degree11
+  - first:
+      213: -8727122124352658280
+    second: Fox_Fox_Attack_Claws_90Degree12
+  - first:
+      213: 976971484789617823
+    second: Fox_Fox_Attack_Claws_90Degree13
+  - first:
+      213: 6762200252662383749
+    second: Fox_Fox_Attack_Claws_90Degree14
+  - first:
+      213: -6254289142246137689
+    second: Fox_Fox_Attack_Claws_90Degree15
+  - first:
+      213: -2459408281459699879
+    second: Fox_Fox_Attack_Claws_90Degree16
+  - first:
+      213: 9013415862281308075
+    second: Fox_Fox_Attack_Claws_90Degree17
+  - first:
+      213: -3011568082454523560
+    second: Fox_Fox_Attack_Claws_90Degree18
+  - first:
+      213: 338235130879108724
+    second: Fox_Fox_Attack_Claws_90Degree19
+  - first:
+      213: -6650811426746837824
+    second: Fox_Fox_Attack_Claws_90Degree20
+  - first:
+      213: -2204094932598806226
+    second: Fox_Fox_Attack_Claws_90Degree21
+  - first:
+      213: -2542880513771522474
+    second: Fox_Fox_Attack_Claws_90Degree22
+  - first:
+      213: -7172254370647330024
+    second: Fox_Fox_Attack_Claws_90Degree23
+  - first:
+      213: 7739682417974001628
+    second: Fox_Fox_Attack_Claws_90Degree24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f819fc78828036690800000000000000
+      internalID: -7610229975155764849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db277dbb04772d70800000000000000
+      internalID: 9018304372604873688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c449bda12edcb5c60800000000000000
+      internalID: 7808060749973787724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree3
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2dca01d9324b3c0800000000000000
+      internalID: -4344808583009086779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree4
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce3f18e0ffc7d660800000000000000
+      internalID: 7410620345454902987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9cbe79fdfd65eb0800000000000000
+      internalID: -4731348207086614090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655bccf4378d4f0d0800000000000000
+      internalID: -3389846629731486378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8b26e30492e7880800000000000000
+      internalID: -8611400081584506695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree8
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ff2320cdbd2670800000000000000
+      internalID: 8515671103349191077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree9
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca0a435218cf4440800000000000000
+      internalID: 4922372898771569352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b078e75e5583cc8c0800000000000000
+      internalID: -3977742429301340405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370829f85bee3bbc0800000000000000
+      internalID: -3768405999613738893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e18a8aa803e680800000000000000
+      internalID: -8727122124352658280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree13
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f943292a366ee8d00800000000000000
+      internalID: 976971484789617823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5848ff75d4928dd50800000000000000
+      internalID: 6762200252662383749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a026d9692d4439a0800000000000000
+      internalID: -6254289142246137689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree16
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc0f1d23d6eddd0800000000000000
+      internalID: -2459408281459699879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7062cb8f5161d70800000000000000
+      internalID: 9013415862281308075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree18
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d464f8c2c436d0800000000000000
+      internalID: -3011568082454523560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766b9a3f07a1b400800000000000000
+      internalID: 338235130879108724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c455a0be3293b3a0800000000000000
+      internalID: -6650811426746837824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29a53b265b7961e0800000000000000
+      internalID: -2204094932598806226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656b26e35afd5bcd0800000000000000
+      internalID: -2542880513771522474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree23
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b2de66a8077c90800000000000000
+      internalID: -7172254370647330024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Attack_Claws_90Degree24
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf3dad0720e86b60800000000000000
+      internalID: 7739682417974001628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fox_Fox_Attack_Claws_90Degree8: 8515671103349191077
+      Fox_Fox_Attack_Claws_90Degree14: 6762200252662383749
+      Fox_Fox_Attack_Claws_90Degree0: -7610229975155764849
+      Fox_Fox_Attack_Claws_90Degree23: -7172254370647330024
+      Fox_Fox_Attack_Claws_90Degree4: 7410620345454902987
+      Fox_Fox_Attack_Claws_90Degree19: 338235130879108724
+      Fox_Fox_Attack_Claws_90Degree11: -3768405999613738893
+      Fox_Fox_Attack_Claws_90Degree20: -6650811426746837824
+      Fox_Fox_Attack_Claws_90Degree21: -2204094932598806226
+      Fox_Fox_Attack_Claws_90Degree3: -4344808583009086779
+      Fox_Fox_Attack_Claws_90Degree9: 4922372898771569352
+      Fox_Fox_Attack_Claws_90Degree18: -3011568082454523560
+      Fox_Fox_Attack_Claws_90Degree2: 7808060749973787724
+      Fox_Fox_Attack_Claws_90Degree24: 7739682417974001628
+      Fox_Fox_Attack_Claws_90Degree6: -3389846629731486378
+      Fox_Fox_Attack_Claws_90Degree13: 976971484789617823
+      Fox_Fox_Attack_Claws_90Degree10: -3977742429301340405
+      Fox_Fox_Attack_Claws_90Degree1: 9018304372604873688
+      Fox_Fox_Attack_Claws_90Degree16: -2459408281459699879
+      Fox_Fox_Attack_Claws_90Degree12: -8727122124352658280
+      Fox_Fox_Attack_Claws_90Degree5: -4731348207086614090
+      Fox_Fox_Attack_Claws_90Degree17: 9013415862281308075
+      Fox_Fox_Attack_Claws_90Degree22: -2542880513771522474
+      Fox_Fox_Attack_Claws_90Degree7: -8611400081584506695
+      Fox_Fox_Attack_Claws_90Degree15: -6254289142246137689
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

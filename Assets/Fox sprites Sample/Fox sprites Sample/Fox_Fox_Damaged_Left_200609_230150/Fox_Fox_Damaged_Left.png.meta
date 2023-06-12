@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: 44f3d254546768f41b04f95ae9895be4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6436187943695571272
+    second: Fox_Fox_Damaged_Left_90Degree0
+  - first:
+      213: 7111937641733622251
+    second: Fox_Fox_Damaged_Left_90Degree1
+  - first:
+      213: -6766706375793370869
+    second: Fox_Fox_Damaged_Left_90Degree2
+  - first:
+      213: -8269480703318616794
+    second: Fox_Fox_Damaged_Left_90Degree3
+  - first:
+      213: 2284016753143935091
+    second: Fox_Fox_Damaged_Left_90Degree4
+  - first:
+      213: -108070367452688343
+    second: Fox_Fox_Damaged_Left_90Degree5
+  - first:
+      213: 9146969215935315366
+    second: Fox_Fox_Damaged_Left_90Degree6
+  - first:
+      213: -330283766679185547
+    second: Fox_Fox_Damaged_Left_90Degree7
+  - first:
+      213: 6261776056890125463
+    second: Fox_Fox_Damaged_Left_90Degree8
+  - first:
+      213: -1836489057884612891
+    second: Fox_Fox_Damaged_Left_90Degree9
+  - first:
+      213: 8549989789113378524
+    second: Fox_Fox_Damaged_Left_90Degree10
+  - first:
+      213: -5731103416089690215
+    second: Fox_Fox_Damaged_Left_90Degree11
+  - first:
+      213: 7394371487984869555
+    second: Fox_Fox_Damaged_Left_90Degree12
+  - first:
+      213: 2111623968575020340
+    second: Fox_Fox_Damaged_Left_90Degree13
+  - first:
+      213: -4658630303868196445
+    second: Fox_Fox_Damaged_Left_90Degree14
+  - first:
+      213: -1669348193473050901
+    second: Fox_Fox_Damaged_Left_90Degree15
+  - first:
+      213: -4196502220538431779
+    second: Fox_Fox_Damaged_Left_90Degree16
+  - first:
+      213: 3109552459658284601
+    second: Fox_Fox_Damaged_Left_90Degree17
+  - first:
+      213: -3867395424506522362
+    second: Fox_Fox_Damaged_Left_90Degree18
+  - first:
+      213: 8041307485713210914
+    second: Fox_Fox_Damaged_Left_90Degree19
+  - first:
+      213: -3148732466079568271
+    second: Fox_Fox_Damaged_Left_90Degree20
+  - first:
+      213: -2706356516042073680
+    second: Fox_Fox_Damaged_Left_90Degree21
+  - first:
+      213: -5509949662387343026
+    second: Fox_Fox_Damaged_Left_90Degree22
+  - first:
+      213: -2709701053711255723
+    second: Fox_Fox_Damaged_Left_90Degree23
+  - first:
+      213: -2029040179003560877
+    second: Fox_Fox_Damaged_Left_90Degree24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6af546a211ea6a0800000000000000
+      internalID: -6436187943695571272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be90340ca9da2b260800000000000000
+      internalID: 7111937641733622251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09177b1764d712a0800000000000000
+      internalID: -6766706375793370869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree3
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6251fb92d17ec3d80800000000000000
+      internalID: -8269480703318616794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree4
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3707f20c22572bf10800000000000000
+      internalID: 2284016753143935091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9209c39c29e008ef0800000000000000
+      internalID: -108070367452688343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adf1470a0090fe70800000000000000
+      internalID: 9146969215935315366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57752040aa89a6bf0800000000000000
+      internalID: -330283766679185547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree8
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c6bfdb52c46e650800000000000000
+      internalID: 6261776056890125463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree9
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2596
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e655e69eea7386e0800000000000000
+      internalID: -1836489057884612891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6e155d96aa7a670800000000000000
+      internalID: 8549989789113378524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f32f8cec70770b0800000000000000
+      internalID: -5731103416089690215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b06d96f0b51e9660800000000000000
+      internalID: 7394371487984869555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree13
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d5d12cfcefd4d10800000000000000
+      internalID: 2111623968575020340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1846
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9e01ecb68395fb0800000000000000
+      internalID: -4658630303868196445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be64991a9a845d8e0800000000000000
+      internalID: -1669348193473050901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree16
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd63ba5e67703c5c0800000000000000
+      internalID: -4196502220538431779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ecf58ac79572b20800000000000000
+      internalID: 3109552459658284601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree18
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605515c0a50445ac0800000000000000
+      internalID: -3867395424506522362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1096
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e10a7bd86789f60800000000000000
+      internalID: 8041307485713210914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e669a31847d44d0800000000000000
+      internalID: -3148732466079568271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b99fb96617117ad0800000000000000
+      internalID: -2706356516042073680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e417e1b99f9b883b0800000000000000
+      internalID: -5509949662387343026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree23
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557f90e8f35356ad0800000000000000
+      internalID: -2709701053711255723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Fox_Damaged_Left_90Degree24
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 346
+        width: 750
+        height: 750
+      alignment: 9
+      pivot: {x: 0.42666668, y: 0.192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c6f7f15b667d3e0800000000000000
+      internalID: -2029040179003560877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fox_Fox_Damaged_Left_90Degree16: -4196502220538431779
+      Fox_Fox_Damaged_Left_90Degree12: 7394371487984869555
+      Fox_Fox_Damaged_Left_90Degree2: -6766706375793370869
+      Fox_Fox_Damaged_Left_90Degree22: -5509949662387343026
+      Fox_Fox_Damaged_Left_90Degree13: 2111623968575020340
+      Fox_Fox_Damaged_Left_90Degree15: -1669348193473050901
+      Fox_Fox_Damaged_Left_90Degree19: 8041307485713210914
+      Fox_Fox_Damaged_Left_90Degree10: 8549989789113378524
+      Fox_Fox_Damaged_Left_90Degree0: -6436187943695571272
+      Fox_Fox_Damaged_Left_90Degree14: -4658630303868196445
+      Fox_Fox_Damaged_Left_90Degree18: -3867395424506522362
+      Fox_Fox_Damaged_Left_90Degree17: 3109552459658284601
+      Fox_Fox_Damaged_Left_90Degree21: -2706356516042073680
+      Fox_Fox_Damaged_Left_90Degree23: -2709701053711255723
+      Fox_Fox_Damaged_Left_90Degree5: -108070367452688343
+      Fox_Fox_Damaged_Left_90Degree6: 9146969215935315366
+      Fox_Fox_Damaged_Left_90Degree3: -8269480703318616794
+      Fox_Fox_Damaged_Left_90Degree1: 7111937641733622251
+      Fox_Fox_Damaged_Left_90Degree9: -1836489057884612891
+      Fox_Fox_Damaged_Left_90Degree24: -2029040179003560877
+      Fox_Fox_Damaged_Left_90Degree20: -3148732466079568271
+      Fox_Fox_Damaged_Left_90Degree4: 2284016753143935091
+      Fox_Fox_Damaged_Left_90Degree8: 6261776056890125463
+      Fox_Fox_Damaged_Left_90Degree11: -5731103416089690215
+      Fox_Fox_Damaged_Left_90Degree7: -330283766679185547
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
